@@ -46,8 +46,7 @@ const selectPlan =  (planNumber) => {
 };
 
 // a možná to i funguje
-selectPlan (3);
-selectPlan (2);
 selectPlan (1);
-
+selectPlan (2);
+selectPlan (3);
 
